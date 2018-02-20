@@ -1,0 +1,19 @@
+links.txt
+Created Mon Feb 19 15:30:37 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+RAID related links
+
+
+Links
+=====
+RAID
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/RAID
+
+Stop using RaidZ, seriously just stop it.
+...
+do us all a favor and use AT LEAST z2 if you can spare it z3
+...
+https://www.reddit.com/r/freenas/comments/1ubebu/stop_using_raidz_seriously_just_stop_it/
