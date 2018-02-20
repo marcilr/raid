@@ -1,0 +1,17 @@
+README
+Created Mon Feb 19 15:29:59 AKST 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+links.txt
+  RAID related links
+
+raid.txt
+  RAID (Redundant Array of Independent Disks, originally Redundant
+  Array of Inexpensive Disks) is a data storage virtualization
+  technology that combines multiple physical disk drive components
+  into one or more logical units for the purposes of data redundancy,
+  performance improvement, or both.   
+  https://en.wikipedia.org/wiki/RAID
