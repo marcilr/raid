@@ -17,3 +17,7 @@ Stop using RaidZ, seriously just stop it.
 do us all a favor and use AT LEAST z2 if you can spare it z3
 ...
 https://www.reddit.com/r/freenas/comments/1ubebu/stop_using_raidz_seriously_just_stop_it/
+
+unRAID array
+https://lime-technology.com/network-attached-storage/
+
